@@ -1,0 +1,60 @@
+{
+  "monsters": [
+    {
+      "_id": {
+        "$oid": "5e157f1c8a80af35ce52d772"
+      },
+      "name": "Abyssal Lagiacrus",
+      "type": "Leviathan",
+      "image": "MH3U-Abyssal_Lagiacrus_Icon.png",
+      "elements": [
+        "Thunder"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1566638a80af35ce52d747"
+      },
+      "name": "Acidic Glavenus",
+      "type": "Brute Wyvern",
+      "image": "MHWI-Acidic_Glavenus_Icon.png",
+      "elements": [
+        "acid"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5dfc5b0eef22781e77ab8187"
+      },
+      "name": "Agnaktor",
+      "type": "Leviathan",
+      "image": "MH3U-Agnaktor_Icon.png",
+      "elements": [
+        "Fire"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1459598a80af35ce52d729"
+      },
+      "name": "Ahtal-Ka",
+      "type": "Neopteron",
+       "image": "MHGU-Ahtal-Ka_Icon.png",
+     "elements": [
+        "Fire"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143dab8a80af35ce52d706"
+      },
+      "name": "Akantor",
+      "type": "Flying Wyvern",
+      "image": "MH4U-Akantor_Icon.png",
+      "elements": [
+        "Fire",
+        "Dragon"
+      ]
+    }
+      ]
+    }
